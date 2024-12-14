@@ -1,4 +1,4 @@
- ##**Layouts**
+ ## **Layouts**
 1.header
 +logo
 +nav
